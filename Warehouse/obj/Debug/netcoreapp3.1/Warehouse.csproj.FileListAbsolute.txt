@@ -1,0 +1,13 @@
+C:\Users\Radells\source\repos\Warehouse\Warehouse\obj\Debug\netcoreapp3.1\Warehouse.csprojAssemblyReference.cache
+C:\Users\Radells\source\repos\Warehouse\Warehouse\obj\Debug\netcoreapp3.1\Warehouse.AssemblyInfoInputs.cache
+C:\Users\Radells\source\repos\Warehouse\Warehouse\obj\Debug\netcoreapp3.1\Warehouse.AssemblyInfo.cs
+C:\Users\Radells\source\repos\Warehouse\Warehouse\obj\Debug\netcoreapp3.1\Warehouse.csproj.CoreCompileInputs.cache
+C:\Users\Radells\source\repos\Warehouse\Warehouse\bin\Debug\netcoreapp3.1\Warehouse.exe
+C:\Users\Radells\source\repos\Warehouse\Warehouse\bin\Debug\netcoreapp3.1\Warehouse.deps.json
+C:\Users\Radells\source\repos\Warehouse\Warehouse\bin\Debug\netcoreapp3.1\Warehouse.runtimeconfig.json
+C:\Users\Radells\source\repos\Warehouse\Warehouse\bin\Debug\netcoreapp3.1\Warehouse.runtimeconfig.dev.json
+C:\Users\Radells\source\repos\Warehouse\Warehouse\bin\Debug\netcoreapp3.1\Warehouse.dll
+C:\Users\Radells\source\repos\Warehouse\Warehouse\bin\Debug\netcoreapp3.1\Warehouse.pdb
+C:\Users\Radells\source\repos\Warehouse\Warehouse\obj\Debug\netcoreapp3.1\Warehouse.dll
+C:\Users\Radells\source\repos\Warehouse\Warehouse\obj\Debug\netcoreapp3.1\Warehouse.pdb
+C:\Users\Radells\source\repos\Warehouse\Warehouse\obj\Debug\netcoreapp3.1\Warehouse.genruntimeconfig.cache
